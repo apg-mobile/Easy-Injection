@@ -1,4 +1,4 @@
-# Kotlin-Injection
+# Easy-Injection
 
 In this repository present short way for injections.
 
@@ -16,7 +16,7 @@ allprojects {
 }
   
 dependencies {
-	compile 'com.github.apg-mobile:Kotlin-Injection:1.0.0'
+	compile 'com.github.apg-mobile:easy-injection:1.0.1'
 }
 ````
 
