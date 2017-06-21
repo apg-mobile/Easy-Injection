@@ -37,7 +37,7 @@ class MyApplication : Application() {
 ### Example Code
 
 ```kotlin
-//Shared Preference Injection
+//SharedPreference Injection
 var name by stringPref()
 var age by integerPref()
 var millisecond by longPref()
