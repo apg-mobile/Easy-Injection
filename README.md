@@ -16,7 +16,7 @@ allprojects {
 }
   
 dependencies {
-	compile 'com.github.apg-mobile:kotlin-injection:1.0.0'
+	compile 'com.github.apg-mobile:Kotlin-Injection:1.0.0'
 }
 ````
 
