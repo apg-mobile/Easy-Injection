@@ -8,13 +8,15 @@ In this repository present short way for injections.
 ### Add to your gradle
 
 ````
+//Application Level
 allprojects {
 	repositories {
 	...
 	maven { url 'https://jitpack.io' }
 	}
 }
-  
+
+//Module Level
 dependencies {
 	compile 'com.github.apg-mobile:easy-injection:1.0.1'
 }
